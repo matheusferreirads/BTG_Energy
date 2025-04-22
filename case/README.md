@@ -1,6 +1,6 @@
-# BTG Energy Challenge
+# Energy Challenge
 ### Introdução
-Trabalhando nos sistema da mesa de Energia do banco BTG Pactual, constantemente lidamos com dados de precipitação, tanto previsto como observado. 
+Trabalhando nos sistema da mesa de Energia do banco, constantemente lidamos com dados de precipitação, tanto previsto como observado. 
 A informação de quanto choveu ou quanto choverá em determinado lugar é dada por uma malha de coordenadas 
 (latitude [lat] e longitude [long]) e uma terceira variável que é a precipitação diária acumulada naquele ponto.
 
